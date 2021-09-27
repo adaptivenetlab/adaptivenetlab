@@ -1,10 +1,9 @@
-[![adaptivenetlab](https://res.cloudinary.com/adaptivenetworklab-org/image/upload/v1627442779/nativeweb/MetaIMG_xzykgg.png)][1]
+# <p align="center"> Hola from Adaptive Network Laboratory </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/adaptivenetlab/vuefix/master/src/views/Home/jumbotron5-logo.gif?token=ASSOITYHZ7M6RY7QQ7QPU3LBKIHFS" height="674" width="649" /> </a>
+<h3 align="center">Focus on Core Networks, Cloud Computing, NFV, etc.</h3>
+<h3 align="center">Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.</h3>
 
-Hola from Adaptive Network Laboratory👋,
-
-Focus on Core Networks, Cloud Computing, NFV, etc. 
-
-Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.
+##
 
 ## 📬 Connect with us!
 
