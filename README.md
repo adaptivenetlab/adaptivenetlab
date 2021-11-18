@@ -8,6 +8,7 @@
 ## 📬 Connect with us!
 
 - Web: [adaptivenetworklab.org][1]
+- Blog: [blog.adaptivenetworklab.org][2]
 - LinkedIn: [linkedin.com/company/adaptive-network-laboratory][2]
 - Instagram: [instagram.com/adaptivenetlab/][3]
 - Youtube: [youtube.com/channel/UCD6F6tTTTP3_zA7hanwdx-Q][4]
@@ -26,8 +27,9 @@
 </a>
 
 [1]: https://adaptivenetworklab.org
-[2]: https://www.linkedin.com/company/adaptive-network-laboratory
-[3]: https://www.instagram.com/adaptivenetlab/
-[4]: https://www.youtube.com/channel/UCD6F6tTTTP3_zA7hanwdx-Q
-[5]: https://hub.docker.com/u/adaptivenetlab
-[6]: https://gitlab.com/adaptivenetlab
+[2]: https://blog.adaptivenetworklab.org
+[3]: https://www.linkedin.com/company/adaptive-network-laboratory
+[4]: https://www.instagram.com/adaptivenetlab/
+[5]: https://www.youtube.com/channel/UCD6F6tTTTP3_zA7hanwdx-Q
+[6]: https://hub.docker.com/u/adaptivenetlab
+[7]: https://gitlab.com/adaptivenetlab
