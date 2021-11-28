@@ -9,12 +9,12 @@
 
 - Web: [adaptivenetworklab.org][1]
 - Blog: [blog.adaptivenetworklab.org][2]
-- LinkedIn: [linkedin.com/company/adaptive-network-laboratory][2]
-- Instagram: [instagram.com/adaptivenetlab/][3]
-- Youtube: [youtube.com/channel/UCD6F6tTTTP3_zA7hanwdx-Q][4]
-- DockerHub: [hub.docker.com/u/adaptivenetlab][5]
-- GitLab : [gitlab.com/adaptivenetlab][6]
-- Email : support@adaptivenetworklab.org
+- LinkedIn: [linkedin.com/company/adaptive-network-laboratory][3]
+- Instagram: [instagram.com/adaptivenetlab/][4]
+- Youtube: [youtube.com/channel/UCD6F6tTTTP3_zA7hanwdx-Q][5]
+- DockerHub: [hub.docker.com/u/adaptivenetlab][6]
+- GitLab : [gitlab.com/adaptivenetlab][7]
+- Email : [support@adaptivenetworklab.org][8]
 
 ## &#x1f4c8; Stats
 
@@ -33,3 +33,4 @@
 [5]: https://www.youtube.com/channel/UCD6F6tTTTP3_zA7hanwdx-Q
 [6]: https://hub.docker.com/u/adaptivenetlab
 [7]: https://gitlab.com/adaptivenetlab
+[8]: support@adaptivenetworklab.org
