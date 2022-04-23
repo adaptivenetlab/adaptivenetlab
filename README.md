@@ -4,8 +4,7 @@
 <h3 align="center">Such as: Openstack, Kubernetes, Docker, Software Defined Network, etc.</h3>
 
 ## 📬 Connect with us!
-
-Reach us on [Here !](https://adaptivenetlab.github.io/)
+- Reach us on [Here !](https://adaptivenetlab.github.io/)
 
 ## &#x1f4c8; Stats
 
